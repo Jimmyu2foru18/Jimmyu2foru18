@@ -18,7 +18,7 @@ I am eager to engage with like-minded individuals and contribute to meaningful i
 where ideas converge and creativity flourishes. 
 Alternatively, you can reach out via email at jimmymcguigan18@gmail.com. 
 I am always excited about the prospect of collaboration and look forward to exploring the vast possibilities with fellow enthusiasts. 
-Let's embark on this journey together!
+
 
 <!---
 Jimmyu2foru18/Jimmyu2foru18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
