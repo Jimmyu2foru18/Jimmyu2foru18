@@ -17,7 +17,7 @@ I am eager to engage with like-minded individuals and contribute to meaningful i
 Feel free to connect with me through comments on projects and repositories, 
 where ideas converge and creativity flourishes. 
 Alternatively, you can reach out via email at jimmymcguigan18@gmail.com. 
-I am always excited about the prospect of collaboration and look forward to exploring the vast possibilities with fellow enthusiasts. 
+I am always excited about the prospect of collaboration and look forward to exploring the vast possibilities. 
 
 
 <!---
