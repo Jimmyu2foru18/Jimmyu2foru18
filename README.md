@@ -6,7 +6,7 @@ I am honing my expertise in SQL and mastering database management skills.
 This hands-on experience forms the foundation of my commitment to becoming a data professional.
 
 Please feel free to contact me through comments on projects and repositories. 
-I am always excited about the prospect of collaboration and look forward to exploring the vast possibilities. 
+I am always excited about the prospect of collaboration and look forward to exploring future opportunities. 
 
 
 <!---
