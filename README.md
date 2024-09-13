@@ -1,5 +1,5 @@
 Hi! I'm @Jimmyu2foru18, 
-I am dedicated to advancing my knowledge and skills by pursuing a master's degree in Data Science.
+I am dedicated to advancing my knowledge and skills
 
 As part of my ongoing educational study, 
 I am honing my expertise in SQL and mastering database management skills. 
