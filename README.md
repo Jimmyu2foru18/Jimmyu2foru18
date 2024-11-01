@@ -1,6 +1,6 @@
 # Hi, I'm James! 👋
 
-I'm a passionate developer focused on advancing my knowledge and skills in software development, with particular interests in data management, web development, and algorithmic problem-solving.
+I'm a developer focused on advancing my knowledge and skills in software development, with particular interests in web development, Computer Networks, and algorithmic problem-solving.
 
 ## 🚀 Featured Projects
 
