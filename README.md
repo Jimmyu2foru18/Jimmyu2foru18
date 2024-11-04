@@ -1,6 +1,6 @@
 # Hi, I'm James! 👋
 
-I'm a developer focused on advancing my knowledge and skills in software development, with particular interests in web development, Computer Networks, and algorithmic problem-solving.
+I'm a developer focused on advancing my knowledge and skills in software development, interests in web development, Computer Networks, and algorithmic problem-solving.
 
 ## 🚀 Featured Projects
 
@@ -38,8 +38,10 @@ I'm currently enhancing my expertise in:
 I'm always excited about collaboration opportunities and discussing new projects. Feel free to:
 - Comment on my repositories
 - Reach out through GitHub issues
-- Connect with me on [LinkedIn](#) linkedin.com/in/james-mcguigan-650266249
-
+- Connect with me on [LinkedIn](#)
+- ```bash
+  linkedin.com/in/james-mcguigan-650266249
+  ```
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical)
