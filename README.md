@@ -40,7 +40,7 @@ I'm always excited about collaboration opportunities and discussing new projects
 - Reach out through GitHub issues
 - Connect with me on [LinkedIn](#)
 - ```bash
-  linkedin.com/in/james-mcguigan-650266249
+  https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317
   ```
 ## 📊 GitHub Stats
 
