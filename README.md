@@ -14,9 +14,6 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 - [game-launcher](https://github.com/Jimmyu2foru18/game-launcher) - Modern game launcher with mod support and game management features
 - [SQL-Application](https://github.com/Jimmyu2foru18/SQL-Application) - Python-based SQL application for database management
 
-### Development Tools
-- [github-analyzer](https://github.com/Jimmyu2foru18/github-analyzer) - AI-powered repository analyzer and build automation tool using Python
-
 ## 💻 Technical Skills
 
 - **Languages**: Java, Python, JavaScript, C#, PHP
