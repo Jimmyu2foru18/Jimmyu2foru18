@@ -5,7 +5,7 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 ## 🚀 Featured Projects
 
 ### Algorithm & Data Structures
-- [Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman) - Implementation of the classic TSP problem using Processing
+- [Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman) - Implementation of the TSP problem using Processing
 - [Circuit-Switch](https://github.com/Jimmyu2foru18/Circuit-Switch) - Network simulation project with drag-and-drop functionality for connection management
 - [FibonacciWebApp](https://github.com/Jimmyu2foru18/FibonacciWebApp) - Interactive web application demonstrating Fibonacci sequence calculations
 
@@ -15,21 +15,21 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 
 ## 💻 Technical Skills
 
-- **Languages**: Java, Python, C#, Javascript, Lua,
-- **Learning**: R, Typescript, Go/Godot
-- **Web Technologies**: HTML, CSS, PHP, React, Vue.js, Node.js, Ruby
-- **Databases**: MySQL, PostgreSQL, Redis
-- **Tools/OS**: Linux, Ubuntu, Kali-Linux, Git, GitHub
-- **Frameworks**: Laravel, Ruby on Rails, Express.js
+**Languages**: Java, Python, C#, JavaScript, Lua
+**Learning**: R, TypeScript, Go, Godot
+**Web Technologies**: HTML, CSS, PHP, React, Vue.js, Node.js, Ruby
+**Databases**: MySQL, PostgreSQL, Redis
+**Tools/OS**: Linux (Ubuntu, Kali Linux), Git, GitHub
+**Frameworks**: Laravel, Ruby on Rails, Express.js
 
 ## 🌱 Current Focus
 
 I'm currently enhancing my expertise in:
 - SQL and Database Management
-- Full-stack Web Development
+- Full-Stack Web Development
 - Algorithm Implementation
 - Software Architecture Design
-- System Design Opject Oriented Implementation
+- Object-Oriented System Design
 
 ##📔 Development Philosophy 
 - Composition > Inheritance
