@@ -10,17 +10,17 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 - [FibonacciWebApp](https://github.com/Jimmyu2foru18/FibonacciWebApp) - Interactive web application demonstrating Fibonacci sequence calculations
 
 ### Web Development & Applications
-- [School-Database](https://github.com/Jimmyu2foru18/School-Database) - JavaScript-based database management system
 - [game-launcher](https://github.com/Jimmyu2foru18/game-launcher) - Modern game launcher with mod support and game management features
 - [SQL-Application](https://github.com/Jimmyu2foru18/SQL-Application) - Python-based SQL application for database management
 
 ## 💻 Technical Skills
 
-- **Languages**: Java, Python, JavaScript, C#, PHP
-- **Web Technologies**: HTML, CSS
-- **Databases**: SQL
-- **Tools**: Git, GitHub
-- **Frameworks**: Processing
+- **Languages**: Java, Python, C#, Javascript, Lua,
+- **Learning**: R, Typescript, Go/Godot
+- **Web Technologies**: HTML, CSS, PHP, React, Vue.js, Node.js, Ruby
+- **Databases**: MySQL, PostgreSQL, Redis
+- **Tools/OS**: Linux, Ubuntu, Kali-Linux, Git, GitHub
+- **Frameworks**: Laravel, Ruby on Rails, Express.js
 
 ## 🌱 Current Focus
 
@@ -29,6 +29,14 @@ I'm currently enhancing my expertise in:
 - Full-stack Web Development
 - Algorithm Implementation
 - Software Architecture Design
+- System Design Opject Oriented Implementation
+
+##📔 Development Philosophy 
+- Composition > Inheritance
+- Clean Code is Good Code
+- Document Whenever Possible
+- Use the DRY Principle
+- Strive for Simplicity 
 
 ## 📫 Let's Connect!
 
@@ -37,7 +45,7 @@ I'm always excited about collaboration opportunities and discussing new projects
 - Reach out through GitHub issues
 - Connect with me on [LinkedIn](#)
 - ```bash
-  https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317
+  [https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317](https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317/)
   ```
 ## 📊 GitHub Stats
 
