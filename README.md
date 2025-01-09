@@ -16,10 +16,10 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 ## 💻 Technical Skills
 ```bash 
 Languages:           Java, Python, C#, JavaScript, Lua
-Learning:            R, TypeScript, Go, Godot,
-Web Technologies:    HTML, CSS, PHP, React, Vue.js, Node.js, Ruby,
-Databases:           MySQL, PostgreSQL, Redis,
-Tools/OS:            Linux (Ubuntu, Kali Linux), Git, GitHub,
+Learning:            R, TypeScript, Go, Godot
+Web Technologies:    HTML, CSS, PHP, React, Vue.js, Node.js, Ruby
+Databases:           MySQL, PostgreSQL, Redis
+Tools/OS:            Linux (Ubuntu, Kali Linux), Git, GitHub
 Frameworks:          Laravel, Ruby on Rails, Express.js
 ```
 ## 🌱 Current Focus
