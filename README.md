@@ -43,7 +43,7 @@ I'm currently enhancing my expertise in:
 I'm always excited about collaboration opportunities and discussing new projects. Feel free to:
 - Comment on my repositories
 - Reach out through GitHub issues
-- Connect with me on [LinkedIn](#)
+- Connect with me on [LinkedIn](#https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317)
 - ```bash
   https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317
   ```
