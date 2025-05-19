@@ -1,52 +1,83 @@
 # Hi, I'm James! 👋
 
-I'm a developer focused on advancing my knowledge and skills in software development, interests in web development, Computer Networks, and algorithmic problem-solving.
+I'm a developer focused on advancing my knowledge and skills in software development, with interests in web development, computer networks, and algorithmic problem-solving.
 
 ## 🚀 Featured Projects
 
-### Algorithm & Data Structures
-- [Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman) - Implementation of the TSP problem using Processing
-- [Circuit-Switch](https://github.com/Jimmyu2foru18/Circuit-Switch) - Network simulation project with drag-and-drop functionality for connection management
-- [FibonacciWebApp](https://github.com/Jimmyu2foru18/FibonacciWebApp) - Interactive web application demonstrating Fibonacci sequence calculations
+### 📊 Algorithm & Data Structures
+- [Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman) – Solves the TSP using Processing  
+- [Circuit-Switch](https://github.com/Jimmyu2foru18/Circuit-Switch) – Network drag-and-drop simulation  
+- [FibonacciWebApp](https://github.com/Jimmyu2foru18/FibonacciWebApp) – Web app to visualize Fibonacci calculations  
+- [Simple-Linear-Algebra](https://github.com/Jimmyu2foru18/Simple-Linear-Algebra) – HTML-based interactive learning for Linear Algebra  
 
-### Web Development & Applications
-- [game-launcher](https://github.com/Jimmyu2foru18/game-launcher) - Modern game launcher with mod support and game management features
-- [SQL-Application](https://github.com/Jimmyu2foru18/SQL-Application) - Python-based SQL application for database management
+### 🌐 Web Development & Applications
+- [Financial-management-application-with-automation](https://github.com/Jimmyu2foru18/Financial-management-application-with-automation) – Automated finance management using JavaScript  
+- [Tutorial-Finder-AI](https://github.com/Jimmyu2foru18/Tutorial-Finder-AI) – AI-powered tool to find coding tutorials  
+- [System-Design-Project](https://github.com/Jimmyu2foru18/System-Design-Project) – System design and architecture implementation  
+- [Sys.-Design-Recspicy](https://github.com/Jimmyu2foru18/Sys.-Design-Recspicy) – System Design: Recspicy project  
+- [Lots-of-working-DB-features-](https://github.com/Jimmyu2foru18/Lots-of-working-DB-features-) – JavaScript DB-focused project  
+- [sign-in-sign-up-](https://github.com/Jimmyu2foru18/sign-in-sign-up-) – Simple auth interface  
+- [Game-UI](https://github.com/Jimmyu2foru18/Game-UI) – Game-focused user interface  
+- [Register-Management-System](https://github.com/Jimmyu2foru18/Register-Management-System) – TypeScript-based inventory system  
+- [School-Database](https://github.com/Jimmyu2foru18/School-Database) – PHP system for school data management  
+- [SQL-Application](https://github.com/Jimmyu2foru18/SQL-Application) – Python-based SQL application  
+
+### 🎮 Games & Interactive
+- [CarrotQuest](https://github.com/Jimmyu2foru18/CarrotQuest) – Platformer game with character control  
+- [Creature-Battle-Arena](https://github.com/Jimmyu2foru18/Creature-Battle-Arena) – GDScript arena game  
+- [2D-Game---Creature-Battle-Arena](https://github.com/Jimmyu2foru18/2D-Game---Creature-Battle-Arena) – Companion to the above  
+- [GhostyMon-Project](https://github.com/Jimmyu2foru18/GhostyMon-Project) – A creature battle concept  
+- [Abacus-Project](https://github.com/Jimmyu2foru18/Abacus-Project) – Edutainment JavaScript game  
+- [Lighthouse-Mouse-Project](https://github.com/Jimmyu2foru18/Lighthouse-Mouse-Project) – Game concept demo  
+
+### 🧠 Tools & Utilities
+- [RESTfulAPI-Explained](https://github.com/Jimmyu2foru18/RESTfulAPI-Explained) – Practical breakdown of REST APIs  
+- [github-analyzerV2](https://github.com/Jimmyu2foru18/github-analyzerV2) – Python tool to analyze GitHub repos  
+- [Linkedin-Post-Scheduler](https://github.com/Jimmyu2foru18/Linkedin-Post-Scheduler) – Schedule LinkedIn posts with Python  
+- [rtt-logger](https://github.com/Jimmyu2foru18/rtt-logger) – AWS-based RTT monitoring solution  
+- [Personal-Finance-Management](https://github.com/Jimmyu2foru18/Personal-Finance-Management) – JS finance tracker  
+- [Coffee-Shop-POS-Build](https://github.com/Jimmyu2foru18/Coffee-Shop-POS-Build) – POS prototype in PHP  
+- [post-generator](https://github.com/Jimmyu2foru18/post-generator) – JS tool for generating posts  
+- [Social-Steam-System](https://github.com/Jimmyu2foru18/Social-Steam-System) – Social app prototype  
+- [discord-bots](https://github.com/Jimmyu2foru18/discord-bots) – Various Discord bot builds  
+
+### 📚 Learning & Concept Projects
+- [covid-climate-analysis](https://github.com/Jimmyu2foru18/covid-climate-analysis) – ML and data analysis  
+- [Research-Project](https://github.com/Jimmyu2foru18/Research-Project) – Data exploration in Jupyter  
+- [Souls-Series](https://github.com/Jimmyu2foru18/Souls-Series) – UML diagrams of Souls games  
+- [Library-Management-System](https://github.com/Jimmyu2foru18/Library-Management-System) – C# library system  
+- [doodle](https://github.com/Jimmyu2foru18/doodle) – HTML sketch tool  
 
 ## 💻 Technical Skills
-```bash 
-Languages:           Java, Python, C#, JavaScript, Lua
-Learning:            R, TypeScript, Go, Godot
-Web Technologies:    HTML, CSS, PHP, React, Vue.js, Node.js, Ruby
-Databases:           MySQL, PostgreSQL, Redis
-Tools/OS:            Linux (Ubuntu, Kali Linux), Git, GitHub
-Frameworks:          Laravel, Ruby on Rails, Express.js
-```
+
+**Languages:** Java, Python, C++, C#, JavaScript, Lua, R  
+**Learning:** Godot, Rust  
+**Web Technologies:** HTML, CSS, PHP, React, Vue.js, Node.js, Ruby  
+**Databases:** MySQL, PostgreSQL, Redis, NoSQL, MongoDB  
+**Tools/OS:** Linux (Ubuntu, Kali), Git, GitHub  
+**Frameworks:** Laravel, Ruby on Rails, Express.js, R-studio  
+
 ## 🌱 Current Focus
 
-I'm currently enhancing my expertise in:
-- SQL and Database Management
-- Full-Stack Web Development
-- Algorithm Implementation
-- Software Architecture Design
-- Object-Oriented System Design
+- SQL and Database Management  
+- Full-Stack Web Development  
+- Algorithm Implementation  
+- Software Architecture Design  
+- Object-Oriented System Design  
 
-##📔 Development Philosophy 
-- Composition > Inheritance
-- Clean Code is Good Code
-- Document Whenever Possible
-- Use the DRY Principle
-- Strive for Simplicity 
+## 📔 Development Philosophy
+
+- Composition > Inheritance  
+- Clean Code is Good Code  
+- Document Whenever Possible  
+- Use the DRY Principle  
+- Strive for Simplicity  
 
 ## 📫 Let's Connect!
 
-I'm always excited about collaboration opportunities and discussing new projects. Feel free to:
-- Comment on my repositories
-- Reach out through GitHub issues
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317)
-```bash
-  https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317
-  ```
+I'm always open to new collaborations and conversations!  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317)
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical)
