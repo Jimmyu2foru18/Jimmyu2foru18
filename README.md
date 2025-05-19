@@ -13,9 +13,7 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 ### 🌐 Web Development & Applications
 - [Financial-management-application-with-automation](https://github.com/Jimmyu2foru18/Financial-management-application-with-automation) – Automated finance management using JavaScript  
 - [Tutorial-Finder-AI](https://github.com/Jimmyu2foru18/Tutorial-Finder-AI) – AI-powered tool to find coding tutorials  
-- [System-Design-Project](https://github.com/Jimmyu2foru18/System-Design-Project) – System design and architecture implementation  
-- [Sys.-Design-Recspicy](https://github.com/Jimmyu2foru18/Sys.-Design-Recspicy) – System Design: Recspicy project  
-- [Lots-of-working-DB-features-](https://github.com/Jimmyu2foru18/Lots-of-working-DB-features-) – JavaScript DB-focused project  
+- [System-Design-Project](https://github.com/Jimmyu2foru18/System-Design-Project) – System design and architecture implementation    
 - [sign-in-sign-up-](https://github.com/Jimmyu2foru18/sign-in-sign-up-) – Simple auth interface  
 - [Game-UI](https://github.com/Jimmyu2foru18/Game-UI) – Game-focused user interface  
 - [Register-Management-System](https://github.com/Jimmyu2foru18/Register-Management-System) – TypeScript-based inventory system  
