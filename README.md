@@ -55,7 +55,7 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 **Web Technologies:** HTML, CSS, PHP, React, Vue.js, Node.js, Ruby  
 **Databases:** MySQL, PostgreSQL, Redis, NoSQL, MongoDB  
 **Tools/OS:** Linux (Ubuntu, Kali), Git, GitHub  
-**Frameworks:** Laravel, Ruby on Rails, Express.js, R-studio  
+**Frameworks:** Laravel, Ruby on Rails, Express.js, R-Studio  
 
 ## 🌱 Current Focus
 
