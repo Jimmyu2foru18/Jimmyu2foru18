@@ -3,20 +3,21 @@
 I'm a developer focused on advancing my knowledge and skills in software development, with interests in web development, computer networks, and algorithmic problem-solving.
 
 ## Featured Projects
-[happybirthday](https://jimmyu2foru18.github.io/happybirthday)
-[SachisPookies](https://jimmyu2foru18.github.io/SachisPookies)
-[Abacus-Project](https://jimmyu2foru18.github.io/Abacus-Project)
-[GhostyMon-Project](https://jimmyu2foru18.github.io/GhostyMon-Project)
-[Chair-Cheese](https://jimmyu2foru18.github.io/Chair-Cheese/new_index.html)
-[A-Calendar](https://jimmyu2foru18.github.io/A-Calendar)
-[th3viousAI](https://jimmyu2foru18.github.io/th3viousAI)
-[Basic-Snake](https://jimmyu2foru18.github.io/Basic-Snake)
-[A-Pathfinding-Algorithm](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html)
-[Simple-Linear-Algebra](https://jimmyu2foru18.github.io/Simple-Linear-Algebra)
-[Resume](https://jimmyu2foru18.github.io/Resume)
-[system-design-project](https://system-design-project.vercel.app)
 
-https://jimmyu2foru18.github.io/CarrotQuest/CarrotQuest.html
+- [happybirthday](https://jimmyu2foru18.github.io/happybirthday)
+- [SachisPookies](https://jimmyu2foru18.github.io/SachisPookies)
+- [Abacus-Project](https://jimmyu2foru18.github.io/Abacus-Project)
+- [GhostyMon-Project](https://jimmyu2foru18.github.io/GhostyMon-Project)
+- [Chair-Cheese](https://jimmyu2foru18.github.io/Chair-Cheese/new_index.html)
+- [A-Calendar](https://jimmyu2foru18.github.io/A-Calendar)
+- [th3viousAI](https://jimmyu2foru18.github.io/th3viousAI)
+- [Basic-Snake](https://jimmyu2foru18.github.io/Basic-Snake)
+- [A-Pathfinding-Algorithm](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html)
+- [Simple-Linear-Algebra](https://jimmyu2foru18.github.io/Simple-Linear-Algebra)
+- [Resume](https://jimmyu2foru18.github.io/Resume)
+- [system-design-project](https://system-design-project.vercel.app)
+- [CarrotQuest](https://jimmyu2foru18.github.io/CarrotQuest/CarrotQuest.html)
+
 ### Algorithm & Data Structures
 - [Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman) – Solves the TSP using Processing  
 - [Circuit-Switch](https://github.com/Jimmyu2foru18/Circuit-Switch) – Network drag-and-drop simulation  
