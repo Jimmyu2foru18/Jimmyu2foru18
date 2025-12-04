@@ -14,6 +14,7 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 - [A-Calendar](https://jimmyu2foru18.github.io/A-Calendar)
 - [th3viousAI](https://jimmyu2foru18.github.io/th3viousAI)
 - [Basic-Snake](https://jimmyu2foru18.github.io/Basic-Snake)
+- [Music Website](https://jimmyu2foru18.github.io/Music-Website/)
 - [A-Pathfinding-Algorithm](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html)
 - [Simple-Linear-Algebra](https://jimmyu2foru18.github.io/Simple-Linear-Algebra)
 - [Resume](https://jimmyu2foru18.github.io/Resume)
