@@ -4,6 +4,8 @@ I'm a developer focused on advancing my knowledge and skills in software develop
 
 ## Featured Projects
 
+- [Deli Website](https://jimmyu2foru18.github.io/Cherry-Valley-Deli/)
+- [Pizzaria Website](https://jimmyu2foru18.github.io/LaRosa-Pizzeria/)
 - [happybirthday](https://jimmyu2foru18.github.io/happybirthday)
 - [SachisPookies](https://jimmyu2foru18.github.io/SachisPookies)
 - [Abacus-Project](https://jimmyu2foru18.github.io/Abacus-Project)
