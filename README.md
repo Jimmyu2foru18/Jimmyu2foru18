@@ -1,4 +1,4 @@
-# James McGuigan
+# James M-
 
 **Full-Stack Software Engineer & Systems Developer**  
 *Crafting scalable web architectures and robust algorithmic solutions*
@@ -17,11 +17,13 @@ Results-driven developer specializing in **full-stack web development**, **algor
 
 | Project | Tech Stack | Description | Access |
 |---------|------------|-------------|--------|
-| **NBA Dream Team Builder** | TypeScript, Node.js, PostgreSQL | Full-stack sports analytics platform with authentication & database integration | [Live Demo](https://v0-nba-dream-team-builder.vercel.app/auth/login/) |
-| **PookiesPlaytime** | TypeScript, React | Interactive gaming platform with modern UI/UX patterns | [Live Demo](https://jimmyu2foru18.github.io/PookiesPlaytime) |
-| **System Design Project** | TypeScript, React, Vercel | Enterprise-grade architecture implementation | [Live Demo](https://system-design-project.vercel.app) |
-| **Periodic Table WebApp** | JavaScript, CSS3 | Interactive scientific data visualization with dynamic element rendering | [View Code](https://github.com/Jimmyu2foru18/periodic-table-webapp) |
-| **Financial Management Suite** | JavaScript, Node.js | Automated personal finance tracker with real-time data processing | [View Code](https://github.com/Jimmyu2foru18/Personal-Finance-Management) |
+| **PookiesPlaytime** | TypeScript, React | Interactive gaming platform with modern UI/UX patterns and state management | [Live Demo](https://jimmyu2foru18.github.io/PookiesPlaytime) |
+| **System Design Project** | TypeScript, React, Vercel | Enterprise-grade scalable architecture implementation with microservices patterns | [Live Demo](https://system-design-project.vercel.app) |
+| **Periodic Table WebApp** | JavaScript, CSS3, Data Viz | Interactive scientific data visualization with dynamic element rendering and transitions | [View Code](https://github.com/Jimmyu2foru18/periodic-table-webapp) |
+| **A-Pathfinding-Algorithm** | JavaScript, Canvas | Interactive A* pathfinding visualization engine with dynamic grid-based simulation | [Live Demo](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html) |
+| **Register Management System** | TypeScript, Node.js | Enterprise inventory control system with user authentication and demo deployment | [View Code](https://github.com/Jimmyu2foru18/Register-Management-System) |
+| **Creature Battle Arena** | GDScript, Godot | Turn-based combat engine showcasing game architecture and state machine patterns | [View Code](https://github.com/Jimmyu2foru18/Creature-Battle-Arena) |
+| **Mini Discord** | TypeScript, Real-time | Real-time messaging application prototype with WebSocket implementation | [View Code](https://github.com/Jimmyu2foru18/Mini_Discord) |
 
 ---
 
@@ -32,11 +34,8 @@ Results-driven developer specializing in **full-stack web development**, **algor
 - **[Cherry Valley Deli](https://jimmyu2foru18.github.io/Cherry-Valley-Deli/)** – E-commerce platform for local business
 - **[LaRosa Pizzeria](https://jimmyu2foru18.github.io/LaRosa-Pizzeria/)** – Restaurant management system with online ordering
 - **[Music Website](https://jimmyu2foru18.github.io/Music-Website/)** – Multi-streaming audio aggregation platform
-- **[V0-Minimalist-Portfolio](https://github.com/Jimmyu2foru18/V0-Minimalist-Portfolio)** – Modern portfolio generator using cutting-edge tools
-- **[Mini Discord](https://github.com/Jimmyu2foru18/Mini_Discord)** – Real-time messaging application prototype
 
 ### Algorithm & Data Structure Implementations
-- **[A-Pathfinding-Algorithm](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html)** – Interactive A* pathfinding visualization engine
 - **[Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman)** – TSP optimization solver in Processing/Java
 - **[Circuit-Switch](https://github.com/Jimmyu2foru18/Circuit-Switch)** – Network topology drag-and-drop simulator
 - **[FibonacciWebApp](https://github.com/Jimmyu2foru18/FibonacciWebApp)** – Web-based sequence calculation visualizer
@@ -44,13 +43,11 @@ Results-driven developer specializing in **full-stack web development**, **algor
 
 ### Interactive Entertainment & Games
 - **[CarrotQuest](https://jimmyu2foru18.github.io/CarrotQuest/CarrotQuest.html)** – Physics-based platformer with character control systems
-- **[Creature Battle Arena](https://github.com/Jimmyu2foru18/Creature-Battle-Arena)** – Turn-based combat engine in GDScript
 - **[GhostyMon Project](https://jimmyu2foru18.github.io/GhostyMon-Project)** – Creature collection battle system
 - **[Basic Snake](https://jimmyu2foru18.github.io/Basic-Snake)** – Classic arcade game with modern JavaScript implementation
 - **[Abacus Project](https://jimmyu2foru18.github.io/Abacus-Project)** – Mathematics edutainment application
 
 ### Enterprise Tools & Utilities
-- **[Register Management System](https://github.com/Jimmyu2foru18/Register-Management-System)** – TypeScript-based inventory control (demo available)
 - **[Coffee Shop POS](https://github.com/Jimmyu2foru18/Coffee-Shop-POS-Build)** – Point-of-sale prototype in PHP
 - **[School Database](https://github.com/Jimmyu2foru18/School-Database)** – PHP student information management system
 - **[RESTfulAPI-Explained](https://github.com/Jimmyu2foru18/RESTfulAPI-Explained)** – Comprehensive API design pattern documentation
@@ -85,7 +82,7 @@ Results-driven developer specializing in **full-stack web development**, **algor
 
 ## Development Philosophy
 
-&gt; **"Clean code is not a luxury—it's a professional responsibility. Simplicity scales; complexity fails."**
+**"Clean code is not a luxury—it's a professional responsibility. Simplicity scales; complexity fails."**
 
 - **Composition over Inheritance** – Build flexible, reusable components
 - **DRY Principle** – Automate redundancy, abstract patterns
@@ -103,12 +100,4 @@ Open to collaborations, technical consultations, and full-time opportunities
 
 ---
 
-### Engineering Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Jimmyu2foru18&show_icons=true&theme=radical&hide_border=false&layout=compact)
-
----
-
-**Actively Seeking Full-Stack Roles** | **Available for Immediate Hire**
+**Actively Seeking Full-Stack Roles** 
