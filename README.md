@@ -110,13 +110,15 @@ I want to create things with a strong foundation so the core of all projects are
 **"Always Clean code, Complexity fails."**
 
 - **Composition over Inheritance** – Build flexible, reusable components
-- **DRY Principle** – Automate redundancy, abstract patterns
-- **Documentation-First** 
-- Code without docs is incomplete. 
--- What you did 
--- what your doing 
--- what your gonna do.
-- **Testable by Design** – If it's hard to test, it's poorly designed
+- **DRY Principle** – Automate redundancy; abstract patterns
+- **Documentation-First**
+  - Code without documentation is incomplete.
+  - Always document:
+    - What you did
+    - What you’re doing
+    - What you’re going **TODO:**
+- **Testable by Design** – If it’s hard to test, it’s poorly designed
+
 
 ---
 
