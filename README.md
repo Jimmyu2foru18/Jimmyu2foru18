@@ -118,9 +118,4 @@ Results-driven developer specializing in **full-stack web development**, **algor
 ## Professional Network
 
 Open to collaborations, technical consultations, and full-time opportunities
-
-[LinkedIn](https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317) • [GitHub](https://github.com/Jimmyu2foru18) • [Portfolio](https://jimmyu2foru18.github.io/Resume)
-
----
-
 **Actively Seeking Full-Stack Roles** 
