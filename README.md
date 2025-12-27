@@ -118,4 +118,6 @@ Results-driven developer specializing in **full-stack web development**, **algor
 ## Professional Network
 
 Open to collaborations, technical consultations, and full-time opportunities
+
 **Actively Seeking Full-Stack Roles** 
+---
