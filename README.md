@@ -11,7 +11,10 @@
 
 ## Professional Overview
 
-Results-driven developer specializing in **full-stack web development**, **algorithm engineering**, and **distributed systems architecture**. Passionate about building performant, maintainable applications with clean code principles and modern development practices.
+I got into Computer Science because I wanted to understand how things I use every day actually worked. 
+My intrest started with hardware taking apart old microsoft computers in the early 2000's and it moved towards a intrest into software as I learned how thisgs were made in college.
+Building computers and making software from scratch became a educational hobby in which I enjoy, but only if I can build it right—solid architecture, clean abstractions, no cutting corners. 
+I want to create things with a strong foundation so the core of all projects are solid and can be built upon further, I focus on composable foundations that scale and let things grow from there.
 
 ---
 
@@ -54,7 +57,7 @@ Results-driven developer specializing in **full-stack web development**, **algor
 | Project | Tech Stack | Description | Access |
 |---------|------------|-------------|--------|
 | **PookiesPlaytime** | TypeScript, React | Interactive gaming platform with modern UI/UX patterns and state management | [Live Demo](https://jimmyu2foru18.github.io/PookiesPlaytime) |
-| **System Design Project** | TypeScript, React, Vercel | Enterprise-grade scalable architecture implementation with microservices patterns | [Live Demo](https://system-design-project.vercel.app) |
+| **System Design Project** | TypeScript, React | Enterprise-grade scalable architecture implementation with microservices patterns | [Live Demo](https://system-design-project.vercel.app) |
 | **Periodic Table WebApp** | JavaScript, CSS3, Data Viz | Interactive scientific data visualization with dynamic element rendering and transitions | [View Code](https://github.com/Jimmyu2foru18/periodic-table-webapp) |
 | **A-Pathfinding-Algorithm** | JavaScript, Canvas | Interactive A* pathfinding visualization engine with dynamic grid-based simulation | [Live Demo](https://jimmyu2foru18.github.io/A-Pathfinding-Algorithm/demo.html) |
 | **Register Management System** | TypeScript, Node.js | Enterprise inventory control system with user authentication and demo deployment | [View Code](https://github.com/Jimmyu2foru18/Register-Management-System) |
@@ -66,10 +69,10 @@ Results-driven developer specializing in **full-stack web development**, **algor
 ## Repository Highlights
 
 ### Web Applications & Systems
-- **[NC-Practice-Website](https://jimmyu2foru18.github.io/NC-Practice-Website/)** – Dynamic web framework with responsive design
-- **[Cherry Valley Deli](https://jimmyu2foru18.github.io/Cherry-Valley-Deli/)** – E-commerce platform for local business
-- **[LaRosa Pizzeria](https://jimmyu2foru18.github.io/LaRosa-Pizzeria/)** – Restaurant management system with online ordering
-- **[Music Website](https://jimmyu2foru18.github.io/Music-Website/)** – Multi-streaming audio aggregation platform
+- **[NC-Practice-Website](https://jimmyu2foru18.github.io/NC-Practice-Website/)** – Rebuild of a county website to test and understand structure, skill, and size.
+- **[Cherry Valley Deli](https://jimmyu2foru18.github.io/Cherry-Valley-Deli/)** – E-commerce Practice platform for database understanding of a local business
+- **[LaRosa Pizzeria](https://jimmyu2foru18.github.io/LaRosa-Pizzeria/)** – Restaurant management system to learn connections, API intergration and processing with online ordering
+- **[Music Website](https://jimmyu2foru18.github.io/Music-Website/)** – Multi-streaming audio aggregation platform, for fun, Spotify and Youtube API Intergration Practice.
 
 ### Algorithm & Data Structure Implementations
 - **[Traveling-Salesman](https://github.com/Jimmyu2foru18/Traveling-Salesman)** – TSP optimization solver in Processing/Java
@@ -80,14 +83,13 @@ Results-driven developer specializing in **full-stack web development**, **algor
 ### Interactive Entertainment & Games
 - **[CarrotQuest](https://jimmyu2foru18.github.io/CarrotQuest/CarrotQuest.html)** – Physics-based platformer with character control systems
 - **[GhostyMon Project](https://jimmyu2foru18.github.io/GhostyMon-Project)** – Creature collection battle system
-- **[Basic Snake](https://jimmyu2foru18.github.io/Basic-Snake)** – Classic arcade game with modern JavaScript implementation
+- **[Basic Snake](https://jimmyu2foru18.github.io/Basic-Snake)** – Classic arcade game with JavaScript
 - **[Abacus Project](https://jimmyu2foru18.github.io/Abacus-Project)** – Mathematics edutainment application
 
 ### Enterprise Tools & Utilities
 - **[Coffee Shop POS](https://github.com/Jimmyu2foru18/Coffee-Shop-POS-Build)** – Point-of-sale prototype in PHP
 - **[School Database](https://github.com/Jimmyu2foru18/School-Database)** – PHP student information management system
-- **[RESTfulAPI-Explained](https://github.com/Jimmyu2foru18/RESTfulAPI-Explained)** – Comprehensive API design pattern documentation
-- **[Computer Programming Notes](https://github.com/Jimmyu2foru18/Computer-Programming-Notes)** – Extensive technical knowledge base
+- **[RESTfulAPI-Explained](https://github.com/Jimmyu2foru18/RESTfulAPI-Explained)** – API design pattern documentation diagrams for my own understanding
 
 ---
 
@@ -95,7 +97,7 @@ Results-driven developer specializing in **full-stack web development**, **algor
 
 | Domain | Technologies | Status |
 |--------|--------------|--------|
-| Database Architecture | SQL Optimization, PostgreSQL, Redis | Active |
+| Database Architecture | SQL, PostgreSQL, Redis | Active |
 | Full-Stack Development | TypeScript, React, Node.js, Express | Active |
 | Algorithm Design | Graph Theory, Pathfinding, Optimization | Growing |
 | Systems Design | Microservices, Distributed Architecture | Active |
@@ -105,12 +107,15 @@ Results-driven developer specializing in **full-stack web development**, **algor
 
 ## Development Philosophy
 
-**"Clean code is not a luxury—it's a professional responsibility. Simplicity scales; complexity fails."**
+**"Always Clean code, Complexity fails."**
 
 - **Composition over Inheritance** – Build flexible, reusable components
 - **DRY Principle** – Automate redundancy, abstract patterns
-- **Documentation-First** – Code without docs is incomplete
-- **Performance Budgets** – Optimize before scaling becomes critical
+- **Documentation-First** 
+- Code without docs is incomplete. 
+-- What you did 
+-- what your doing 
+-- what your gonna do.
 - **Testable by Design** – If it's hard to test, it's poorly designed
 
 ---
