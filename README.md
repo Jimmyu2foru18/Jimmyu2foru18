@@ -124,6 +124,6 @@ I want to create things with a strong foundation so the core of all projects are
 
 ## Professional Network
 
-- Open to collaborations, technical consultations, and full-time opportunities
+- Open to collaborations!
 - **Actively Seeking Full-Stack Roles** 
 ---
