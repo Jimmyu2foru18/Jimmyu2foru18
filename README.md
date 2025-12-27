@@ -1,4 +1,4 @@
-# James M-
+# Th3viousGameus
 
 **Full-Stack Software Engineer & Systems Developer**  
 *Building scalable applications through composition and well designed algorithms*
