@@ -137,5 +137,10 @@ I want to create things with a strong foundation so the core of all projects are
 ---
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmyu2foru18&layout=compact)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jimmyu2foru18&theme=onedark&margin-w=10&margin-h=10)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jimmyu2foru18&repo=YOUR_REPO_NAME&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jimmyu2foru18&theme=react-dark&area=true)
+
