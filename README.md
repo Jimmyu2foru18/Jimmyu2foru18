@@ -136,6 +136,3 @@ I want to create things with a strong foundation so the core of all projects are
 - **Actively Seeking Full-Stack Roles** 
 ---
 
-### GitHub Stats
-
-https://github-profile-trophy.vercel.app/?username=Jimmyu2foru18&theme=onestar
