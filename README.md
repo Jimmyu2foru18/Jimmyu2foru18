@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jimmyu2foru18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-mcguigan-jr-b26a5b317)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A86B?style=flat-square&logo=react&logoColor=white)](https://jimmyu2foru18.github.io/Resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A86B?style=flat-square&logo=react&logoColor=white)]([https://jimmyu2foru18.github.io/Resume](https://v0-minimalist-portfolio-oiu5wm7aa-jimmyu2foru18s-projects.vercel.app))
 
 ---
 
