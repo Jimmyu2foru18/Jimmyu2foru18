@@ -13,7 +13,7 @@
 
 I got into Computer Science because I wanted to understand how things I use every day actually worked. 
 My intrest started with hardware taking apart old microsoft computers in the early 2000's and it moved towards a intrest into software as I learned how thisgs were made in college.
-Building computers and making software from scratch became a educational hobby in which I enjoy, but only if I can build it right—solid architecture, clean abstractions, no cutting corners. 
+Building computers and making software from scratch became a educational hobby in which I enjoy, but only if I can build it right. Solid architecture, clean abstractions, no cutting corners. 
 I want to create things with a strong foundation so the core of all projects are solid and can be built upon further, I focus on composable foundations that scale and let things grow from there.
 
 ---
