@@ -135,5 +135,7 @@ I want to create things with a strong foundation so the core of all projects are
 - Open to collaborations!
 - **Actively Seeking Full-Stack Roles** 
 ---
-![GitHub Card](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=vercel&hide_border=true)
+
+![Jimmyu2foru18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=default&hide_border=false)
+
 
