@@ -137,8 +137,3 @@ I want to create things with a strong foundation so the core of all projects are
 ---
 
 ![Jimmyu2foru18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical&hide_border=false)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jimmyu2foru18&theme=radical&no-frame=true&row=1&column=6)
-
-
-
