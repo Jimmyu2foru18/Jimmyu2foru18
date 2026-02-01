@@ -136,9 +136,4 @@ I want to create things with a strong foundation so the core of all projects are
 - **Actively Seeking Full-Stack Roles** 
 ---
 
-![Jimmyu2foru18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmyu2foru18&show_icons=true&theme=radical&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jimmyu2foru18&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
 
