@@ -136,4 +136,4 @@ I want to create things with a strong foundation so the core of all projects are
 - **Actively Seeking Full-Stack Roles** 
 ---
 
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jimmyu2foru18?cardType=level&fontFamily=&preferLogin=false&Background=000000&Text=9C7EDD&Ring=30DD00&borderRadius=20&Border=5887DD&Title=F02121)](https://git.io/awesome-stats-card)
